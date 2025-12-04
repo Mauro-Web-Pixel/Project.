@@ -1,0 +1,16 @@
+{
+  "name": "project.",
+  "version": "1.0.0",
+  "description": "i don't know what to do and what to take it in the future with this. Lmao",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
